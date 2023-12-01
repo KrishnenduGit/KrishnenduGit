@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KrishnenduGit
+- 👋 Hi, I’m @Krishnendu
 - 👀 I’m interested in gravitational wave data analysis of current an future detectors.
 
 <!---
